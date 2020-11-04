@@ -1,0 +1,25 @@
+off   = 0 0 0
+red   = 127 0 0
+orange= 255 63 0
+yellow= 127 127 0
+yl-gr = 63 255 0
+green = 0 127 0
+gr-cy = 0 255 63
+cyan  = 0 127 127
+cy-bl = 0 63 255
+blue  = 0 0 255
+purple= 63 0 255
+pink  = 255 0 63
+white = 255 255 255
+
+red 255	= 0x1804
+red 127 = 0x000A
+red  63 = 0x0410
+
+grn 255 = 0x1050
+grn 127 = 0x00A8
+grn  63 = 0x0104
+
+blu 255 = 0x1700
+blu 127 = 0x0080
+blu  63 = 0x0840
